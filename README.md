@@ -9,4 +9,4 @@
 | [Day3] 2025.12.06 | [MLP, CNN 실습](./PYMAIA5_day3_CNN_실습.ipynb) | 
 | [Day4] 2025.12.13 |  |
 
-[<img src="https://minds.postech.ac.kr/_res/postech/minds2/img/cropped-logo4-wide-1.png" style="height:auto; max-width:100%;">](https://minds.postech.ac.kr/minds2/index.do)
+[<img src="https://wsrv.nl/?url=https://minds.postech.ac.kr/_res/postech/minds2/img/cropped-logo4-wide-1.png" style="height:auto; max-width:100%;">](https://minds.postech.ac.kr/minds2/index.do)
