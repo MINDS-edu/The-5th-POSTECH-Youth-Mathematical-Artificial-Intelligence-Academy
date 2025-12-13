@@ -36,7 +36,7 @@
 |   |2차시|이동진|[MLP 실습](./PYMAIA5_day2_MLP_실습.ipynb)|
 | [Day3] 2025.12.06 |1차시|전성휴|[CNN 이론](https://postechackr-my.sharepoint.com/:p:/g/personal/shhchon_postech_ac_kr/EQOewROAG55BukyE-2z4Sy4BkQTSxfmAVbcGHOQ64G4x4Q)| 
 |  |2차시|김병규|[CNN 실습](./PYMAIA5_day3_CNN_실습.ipynb)| 
-| [Day4] 2025.12.13|1차시|?|?|
+| [Day4] 2025.12.13|1차시|김병규|[AI 이론](./PYMAIA5_day4_AI이론.pdf)|
 | |2차시|?|?|
 
 [![](https://minds.postech.ac.kr/_res/postech/minds2/img/cropped-logo4-wide-1.png)](https://minds.postech.ac.kr/minds2/index.do)
