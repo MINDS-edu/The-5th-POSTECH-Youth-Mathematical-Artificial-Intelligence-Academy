@@ -39,7 +39,7 @@
 | [Day4] 2025.12.13|1차시|김병규|[LLM 이론](./PYMAIA5_day4_AI이론.pdf), LLM 실습(수능 풀이)|
 | |2차시|염시진|AI의 비판적 이해|
 
-[![](https://minds.postech.ac.kr/_res/postech/minds2/img/cropped-logo4-wide-1.png)](https://minds.postech.ac.kr/minds2/index.do)
+
 
 [<img src="https://github.com/MINDS-edu/The-4th-POSTECH-Youth-Mathematical-Artificial-Intelligence-Academy-Public/blob/main/warehouse/1_%ED%8F%AC%ED%95%AD%EC%8B%9CCI_%EA%B8%B0%EB%B3%B8%ED%98%95.jpg" style="height:auto; max-width:100%;">](https://www.pohang.go.kr/main.do)
 [<img src="https://wsrv.nl/?url=https://minds.postech.ac.kr/_res/postech/minds2/img/cropped-logo4-wide-1.png" style="height:auto; max-width:100%;">](https://minds.postech.ac.kr/minds2/index.do)
